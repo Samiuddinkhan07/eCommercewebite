@@ -12,7 +12,7 @@ function Homepage(){
     </div>
     <div className={Homestyles['body-Wrapper']}>
         <div className={Homestyles['page-content']}>
-
+        
         </div>
     </div>
 </div>
